@@ -1,1 +1,1 @@
-include: [".well-known/distx.json"]
+include: [".well-known", ".well-known/distx.json"]
